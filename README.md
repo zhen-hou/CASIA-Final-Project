@@ -15,7 +15,7 @@ The other folders are for debug use and storing plot results.
 
 ## Reference
 
-G. Wang, G., Sarkar, A., Carbonetto, P. \& Stephens, M. (2020). A simple new approach to variable selection in regression, with application to genetic fine mapping. Journal of the Royal Statistical Society, Series B 82, 1273–1300. \url{https://doi.org/10.1111/rssb.12388}
+G. Wang, G., Sarkar, A., Carbonetto, P. \& Stephens, M. (2020). A simple new approach to variable selection in regression, with application to genetic fine mapping. Journal of the Royal Statistical Society, Series B 82, 1273–1300. https://doi.org/10.1111/rssb.12388
 
 Mitchell, T. J. and Beauchamp, J. J. (1988) Bayesian variable selection in linear regression. J. Am. Statist. Ass., 83, 1023–1032.
 
