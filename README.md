@@ -5,7 +5,7 @@ This is a replication of paper "A simple new approach to variable selection in r
 
 To run the code, first run `load_funs_datas.R` to load all the functions and datas needed. Reminder: need to change `folder_path` to path of folder `R_files`.
 
-Then, you can run function `ibss(X,y)` to some n by p matrix X and n vector y. There are some other parameters for this function, which can be found in `ibss.R`.
+Then, you can run function `ibss(X,y, L)` to some n by p matrix X and n vector y and integer L. There are some other parameters for this function, which can be found in `ibss.R`.
 
 You can also directly source simulation files such as `synthenic1.R` to see some results.
 
