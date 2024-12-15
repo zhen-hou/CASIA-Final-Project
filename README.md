@@ -9,4 +9,16 @@ To run the code, first run `load_funs_datas.R` to load all the functions and dat
 
 `synthenic1.R` and `synthenic2.R` is the simulation on synthenic data. The main function for this part is `simulation()` defined in `R_files`.
 
-`n3finemapping.R` is for simulation on data `N3finemapping.RData` which was downloaded at https://github.com/stephenslab/susieR/tree/master/data.
+`n3finemapping.R` is for simulation on data `N3finemapping.RData` which was downloaded at https://github.com/stephenslab/susieR/tree/master/data. `N3finemapping.CAVIAR.RData`, `N3finemapping.DAP.RData` and `N3finemapping.FINEMAP.RData` are results for corresponding model. They are downloaded at https://github.com/stephenslab/susieR/tree/master/inst/datafiles.
+
+The other folders are for debug use and storing plot results.
+
+## Reference
+
+G. Wang, G., Sarkar, A., Carbonetto, P. \& Stephens, M. (2020). A simple new approach to variable selection in regression, with application to genetic fine mapping. Journal of the Royal Statistical Society, Series B 82, 1273–1300. \url{https://doi.org/10.1111/rssb.12388}
+
+Mitchell, T. J. and Beauchamp, J. J. (1988) Bayesian variable selection in linear regression. J. Am. Statist. Ass., 83, 1023–1032.
+
+Wen, X., Lee, Y., Luca, F. and Pique-Regi, R. (2016) Efficient integrative multi-SNP association analysis via deterministic approximation of posteriors. Am. J. Hum. Genet., 98, 1114–1129.
+
+Benner, C., Spencer, C. C., Havulinna, A. S., Salomaa, V., Ripatti, S. and Pirinen, M. (2016) FINEMAP: efficient variable selection using summary data from genome-wide association studies. Bioinformatics, 32, 1493–1501.
